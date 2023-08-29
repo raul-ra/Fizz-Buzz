@@ -59,3 +59,65 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 ---
 
 ¡Disfruta resolviendo el clásico problema de FizzBuzz y aprendiendo sobre pruebas automatizadas con Jest! Si tienes alguna pregunta o inquietud, no dudes en abrir un problema en este repositorio. ¡Diviértete programando!
+
+**FizzBuzz with Jest - README**
+
+This is a simple project that implements the famous "FizzBuzz" programming problem using JavaScript and tests it using the Jest testing framework. FizzBuzz is a classic problem that involves printing a series of numbers, but with a twist: for multiples of 3, "Fizz" is printed, for multiples of 5, "Buzz" is printed, and for numbers that are multiples of both 3 and 5, "FizzBuzz" is printed. The goal of this project is to implement and test this logic using Jest.
+
+## Prerequisites
+
+Make sure you have Node.js installed on your system before proceeding.
+
+## Installation
+
+1. Clone this repository to your local machine or download it as a ZIP file and extract it.
+
+   ```bash
+   git clone https://github.com/your_username/fizzbuzz-with-jest.git
+   ```
+
+2. Navigate to the project folder.
+
+   ```bash
+   cd fizzbuzz-with-jest
+   ```
+
+3. Install the project dependencies using npm.
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+The main file for the FizzBuzz logic is located in `fizzbuzz.js`. You can modify this file if you wish to change the implementation of the problem.
+
+To run FizzBuzz and see the results in the console, execute the following command:
+
+```bash
+npm start
+```
+
+## Testing
+
+This project utilizes Jest to perform automated tests on the FizzBuzz logic. The tests are located in the `tests` directory.
+
+To run the tests, use the following command:
+
+```bash
+npm test
+```
+
+This will execute the tests defined in the test files and display the results in the console.
+
+## Contributions
+
+Contributions are welcome! If you find improvements that can be made to the implementation or the tests, feel free to create a pull request in this repository.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Enjoy solving the classic FizzBuzz problem and learning about automated testing with Jest! If you have any questions or concerns, don't hesitate to open an issue in this repository. Happy coding!
