@@ -1,0 +1,8 @@
+1-crear directorio
+2- inicio node (npm init)
+3- dependencias de node (npm i(=install))
+4- modulos de node (npm i node)
+5- instalar jest (npm install --save-dev jest)
+6- crear carpeta src:
+    crear archivo de FizzBuzz.js
+    crear archivo de FizzBuzz.test.js

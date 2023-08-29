@@ -1,0 +1,25 @@
+{
+  "name": "fizz",
+  "version": "1.0.0",
+  "description": "Fizz Buzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raul-ra/Fizz-Buzz.git"
+  },
+  "author": "Raúl Radillo Arévalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raul-ra/Fizz-Buzz/issues"
+  },
+  "homepage": "https://github.com/raul-ra/Fizz-Buzz#readme",
+  "dependencies": {
+    "node": "^20.5.1"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
